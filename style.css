@@ -1,0 +1,209 @@
+.banner {
+  background: url(image/IMG_6388.JPG) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+.bgmakan {
+  background: url(image/muduk.jpg) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+.tradisi {
+  background: url(image/jedor.png) no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+}
+.tradisi2 {
+  background: url(image/batik.jpg) no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+}
+.tradisi3 {
+  background: url(image/langgi.jpeg) no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+}
+.sejarah {
+  background: url(image/masjid.jpg) no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.kami {
+  padding-top: 5px;
+  background-color: darkslategrey;
+  background-size: 100%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+}
+.resep {
+  padding-top: 5px;
+  background-color: #cccccc;
+  background-size: 100%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #333;
+}
+.tentang {
+  padding-top: 5px;
+  background-color: darkslategrey;
+  background-size: 100%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  color: #fff;
+}
+.galeriku {
+  background-color: #cccccc;
+}
+.galeri2 {
+  background-color: darkslategray;
+  color: #cccccc;
+}
+.choosebtn {
+  background: #ffb03b;
+  color: #fff;
+  border-radius: 50px;
+  margin: 20px;
+  padding: 10px 25px;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.makan1 {
+  display: inline-block;
+  border-radius: 0%;
+  width: 400px;
+  margin: auto;
+  height: 250px;
+  background-size: 100%;
+  background-image: url(image/muduk1.png);
+}
+.makan2 {
+  display: inline-block;
+  border-radius: 0%;
+  width: 400px;
+  margin: auto;
+  height: 250px;
+  background-size: 100%;
+  background-image: url(image/langgi.jpeg);
+}
+.lingkaran {
+  display: inline-block;
+  border-radius: 2%;
+  width: 400px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-image: url(image/maps.png);
+}
+.lingkaran1 {
+  display: inline-block;
+  width: 400px;
+  margin: auto;
+  height: 250px;
+  background-size: 100%;
+  background-image: url(image/kartar.jpeg);
+}
+.lingkaran2 {
+  display: inline-block;
+  width: 400px;
+  margin: auto;
+  height: 250px;
+  background-size: 100%;
+  background-image: url(image/darwis.png);
+}
+.lingkaran3 {
+  display: inline-block;
+  width: 400px;
+  margin: auto;
+  height: 250px;
+  background-size: 100%;
+  background-image: url(image/pkk.JPG);
+}
+.lingkaran4 {
+  display: inline-block;
+  width: 400px;
+  margin: auto;
+  height: 250px;
+  background-size: 100%;
+  background-image: url(image/NU1.jpeg);
+}
+.lingkaran5 {
+  display: inline-block;
+  width: 400px;
+  margin: auto;
+  height: 250px;
+  background-size: 100%;
+  background-image: url(image/dcr.png);
+}
+.lingkaran6 {
+  display: inline-block;
+  width: 400px;
+  margin: auto;
+  height: 250px;
+  background-size: 100%;
+  background-image: url(image/ipnuippnu.jpeg);
+}
+
+.MyLink {
+  display: inline-block;
+  border-radius: 30%;
+  width: 100px;
+  margin: auto;
+  height: 100px;
+  color: #fff;
+  background-color: #dc3545;
+}
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.tim img {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+.client img {
+  height: auto;
+  max-height: 50px;
+}
+
+.kontak {
+  background: url(image/maps.png) no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
+
+.logo img {
+  max-height: 50px;
+}
